@@ -7,7 +7,7 @@
 ### 🙋‍♀️About Me:
 - ⚡ I’m a Full Stack JS Developer.
 - 🔭 I’m currently working on improving myself! :grin:
-- 🌐 I’m currently learning more about Next.js and Nest.js!.
+- 🌐 I’m currently learning more about Next.js and Nest.js.
 
 <p>
 <br>
