@@ -39,8 +39,8 @@
 <img src="https://img.shields.io/badge/Express.js%20-%ea2845.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/npm%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=6EB75A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=010" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 
 
