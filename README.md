@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Styled components%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nest.js%20-%ea2845.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express.js%20-%ea2845.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express.js%20-%ea2845.svg?&style=for-the-badge&color=808080" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/npm%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=FF1493" />&nbsp;&nbsp;
