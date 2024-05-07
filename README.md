@@ -20,7 +20,7 @@
 
 ### 🛠️My Tech Stack:
 
-- ⚙️ React 𒑰 Redux 𒑰 Vue 𒑰 TypeScript 𒑰 JavaScript 𒑰 HTML 𒑰 SASS
+- ⚙️ React 𒑰 Redux 𒑰 Vue 𒑰 Angular 𒑰 TypeScript 𒑰 JavaScript 𒑰 HTML 𒑰 SASS
 - 🔍 NodeJS 𒑰 Express 𒑰 DB
 
 
